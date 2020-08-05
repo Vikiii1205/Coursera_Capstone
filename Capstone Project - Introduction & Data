@@ -1,0 +1,18 @@
+Introduction
+
+I'm living in Manchester. Manchester is the nucleus of the largest metropolitan area in the north of England. The city is lovely and inclusive with people from different countries, cultures and classes, attracting tens of thousands of tourists everyday. Spontaneously, the market potential of catering business is very promising. But before starting a business in running restaurant in this city, there are several questions need to be considered seriously -- What kind of restaurant to open? Where is the best place to set up the business? How our price strategy should be? et al.
+
+All of the above question can be answered by data. Therefore, the purpose of this project is to identify the best business opportunity to open a restaurant in Manchester city by analysing and interpreting the data.
+
+
+Data
+
+In order to find the answers of above questions, I will use the following data:
+
+1. The coverage of the postcode districts of Manchester from wikipedia: https://en.wikipedia.org/wiki/M_postcode_area
+
+2. The geospatial data of each area in Manchester according to the postcode. This information can be found online: https://www.doogal.co.uk/UKPostcodes.php 
+
+3. Data are from Foursquare will be used to provide information about which types of venues and restaurants are popular in each area of Manchester.
+
+From these datasets, I can get the geospatial data of each coverage in Manchester. Then based on the geospatial data, information from Foursquare can be fetched to analyse the venues distribution, and even further the restaurants distribution in Manchester. Finally, I think all these information will help me find the key factors to open a restaurant in the city with the highest possibility to succeed.
